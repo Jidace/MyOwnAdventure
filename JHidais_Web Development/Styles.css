@@ -1,0 +1,15 @@
+Body{ 
+    font-family: arial, sans-serif;
+    Background-color: #0f7d9f;
+    text-align:center;
+    font-size: 18px;
+}
+h1{
+    color: antiquewhite;
+    font-size: 100px;
+}
+p{
+    background-color: #0f7d9f;
+    color: black
+        font-size: 18px;
+}
